@@ -3,6 +3,7 @@
 **Uma tutora de IA que ensina de verdade — muda a representação quando você não entende, em vez de repetir a mesma explicação.**
 
 > 🔗 **Use agora:** [learnflow-lukepalys-projects.vercel.app](https://learnflow-lukepalys-projects.vercel.app) · [GitHub Pages](https://lukepalys.github.io/learnflow/)
+> ⚠️ **Este repositório foi migrado!** O desenvolvimento continua agora em → **[lucasgabrieldevgg/learnflow](https://github.com/lucasgabrieldevgg/learnflow)**
 
 ## 💡 O método
 
